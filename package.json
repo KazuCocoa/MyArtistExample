@@ -7,8 +7,10 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"babel-relay-plugin": "https://github.com/alloy/relay/releases/download/v0.9.3/babel-relay-plugin-0.9.3.tgz",
 		"react": "~15.4.1",
-		"react-native": "0.42.0"
+		"react-native": "0.42.0",
+		"react-relay": "https://github.com/alloy/relay/releases/download/v0.9.3/react-relay-0.9.3.tgz"
 	},
 	"devDependencies": {
 		"babel-jest": "19.0.0",
